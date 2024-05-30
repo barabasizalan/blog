@@ -1,0 +1,563 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\pages\\detailedblogpost.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\pages\\detailedblogpost.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dtos\\blogpost\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dtos\\blogpost\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dal\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dal\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\service\\api\\api-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\service\\api\\api-service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\context\\authcontext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\context\\authcontext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dtos\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dtos\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\service\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\service\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dal\\repository\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dal\\repository\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\service\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\service\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\model\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\model\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\blog.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\blog.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\bll\\repository interfaces\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\bll\\repository interfaces\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\dtos\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\dtos\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C095BFED-B413-4AD6-9D10-D641DCEFF1EB}|blog.client\\blog.client.esproj|solutionrelative:blog.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\blog.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\blog.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|c:\\users\\zalan\\egyetem\\futurion\\blog\\blog.server\\migrations\\20240529144603_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961A57E1-CC18-4A5F-9882-D5066E6A26D0}|Blog.Server\\Blog.Server.csproj|solutionrelative:blog.server\\migrations\\20240529144603_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Blog.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:48:29.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Program.cs",
+              "RelativeToolTip": "Blog.Server\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAQwFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:47:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Blogpost\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DTOs\\Blogpost\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Blogpost\\CreatePostDto.cs",
+              "RelativeToolTip": "Blog.Server\\DTOs\\Blogpost\\CreatePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:09:43.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Blog.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\appsettings.Development.json",
+              "RelativeToolTip": "Blog.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T07:07:19.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\appsettings.json",
+              "RelativeToolTip": "Blog.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T14:51:04.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\TokenService.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Service\\TokenService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:13:32.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailedBlogPost.tsx",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\pages\\DetailedBlogPost.tsx",
+              "RelativeDocumentMoniker": "blog.client\\src\\pages\\DetailedBlogPost.tsx",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\pages\\DetailedBlogPost.tsx",
+              "RelativeToolTip": "blog.client\\src\\pages\\DetailedBlogPost.tsx",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-30T10:40:58.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Blog.Server\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:48:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blog.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blog.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T14:47:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DAL\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DAL\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DAL\\BlogDbContext.cs",
+              "RelativeToolTip": "Blog.Server\\DAL\\BlogDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:33:48.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "Blog.Server\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\CHANGELOG.md",
+              "RelativeToolTip": "Blog.Server\\CHANGELOG.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-30T07:07:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthContext.tsx",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\context\\AuthContext.tsx",
+              "RelativeDocumentMoniker": "blog.client\\src\\context\\AuthContext.tsx",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\context\\AuthContext.tsx",
+              "RelativeToolTip": "blog.client\\src\\context\\AuthContext.tsx",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-29T16:26:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "api-service.ts",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\service\\api\\api-service.ts",
+              "RelativeDocumentMoniker": "blog.client\\src\\service\\api\\api-service.ts",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\service\\api\\api-service.ts",
+              "RelativeToolTip": "blog.client\\src\\service\\api\\api-service.ts",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-30T06:58:19.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\index.css",
+              "RelativeDocumentMoniker": "blog.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\index.css",
+              "RelativeToolTip": "blog.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T14:53:45.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "blog.client\\src\\pages\\Login.tsx",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "blog.client\\src\\pages\\Login.tsx",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-30T06:58:55.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DTOs\\Account\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\RegisterModel.cs",
+              "RelativeToolTip": "Blog.Server\\DTOs\\Account\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:47:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "blog.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\App.tsx",
+              "RelativeToolTip": "blog.client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T14:31:35.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\App.css",
+              "RelativeDocumentMoniker": "blog.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\App.css",
+              "RelativeToolTip": "blog.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T14:42:02.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Service\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\ITokenService.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Service\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:13:19.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Service\\BlogPostService.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\BlogPostService.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Service\\BlogPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:45:09.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240529144603_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Migrations\\20240529144603_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\Migrations\\20240529144603_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Migrations\\20240529144603_InitialCreate.cs",
+              "RelativeToolTip": "Blog.Server\\Migrations\\20240529144603_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:46:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DAL\\Repository\\BlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DAL\\Repository\\BlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DAL\\Repository\\BlogPostRepository.cs",
+              "RelativeToolTip": "Blog.Server\\DAL\\Repository\\BlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:43:46.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DTOs\\Account\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\NewUserDto.cs",
+              "RelativeToolTip": "Blog.Server\\DTOs\\Account\\NewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:25:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\IBlogPostService.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Service\\IBlogPostService.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Service\\IBlogPostService.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Service\\IBlogPostService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvwoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:45:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Model\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Model\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Model\\BlogPost.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Model\\BlogPost.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:44:32.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Model\\User.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:43:20.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "blog.client.esproj",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\blog.client.esproj",
+              "RelativeDocumentMoniker": "blog.client\\blog.client.esproj",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\blog.client.esproj",
+              "RelativeToolTip": "blog.client\\blog.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T12:16:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "blog.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\src\\main.tsx",
+              "RelativeToolTip": "blog.client\\src\\main.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T14:53:43.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBlogPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Repository interfaces\\IBlogPostRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\BLL\\Repository interfaces\\IBlogPostRepository.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\BLL\\Repository interfaces\\IBlogPostRepository.cs",
+              "RelativeToolTip": "Blog.Server\\BLL\\Repository interfaces\\IBlogPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:43:56.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Blog.Server\\DTOs\\Account\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\DTOs\\Account\\LoginModel.cs",
+              "RelativeToolTip": "Blog.Server\\DTOs\\Account\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:47:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "blog.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\vite.config.ts",
+              "RelativeToolTip": "blog.client\\vite.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T14:31:29.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\index.html",
+              "RelativeDocumentMoniker": "blog.client\\index.html",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\blog.client\\index.html",
+              "RelativeToolTip": "blog.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-24T14:54:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Blog.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Blog.Server.csproj",
+              "RelativeDocumentMoniker": "Blog.Server\\Blog.Server.csproj",
+              "ToolTip": "C:\\Users\\Zalan\\Egyetem\\Futurion\\Blog\\Blog.Server\\Blog.Server.csproj",
+              "RelativeToolTip": "Blog.Server\\Blog.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T14:33:56.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
