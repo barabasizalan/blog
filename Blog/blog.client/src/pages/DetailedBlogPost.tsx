@@ -4,7 +4,7 @@ import {
   getBlogPostByIdAsync,
   updateBlogAsync,
 } from "../service/api/api-service";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import {
   Box,
   Heading,
@@ -24,6 +24,8 @@ import {
 } from "@chakra-ui/react";
 import { FaTrash, FaPencilAlt, FaUser } from "react-icons/fa";
 import Navbar from "../components/Navbar";
+import { convertDate } from "../utils/utils";
+import { useAuth } from "../context/AuthContext";
 
 const DetailedBlogPost = () => {
   const [isEditable, setIsEditable] = useState(false);
@@ -34,7 +36,9 @@ const DetailedBlogPost = () => {
   const { id } = useParams<{ id: string }>();
   const [isDialogOpen, setIsDialogOpen] = useState(false);
 
+  const {isLoggedIn} = useAuth();
   const cancelRef = useRef<HTMLButtonElement>(null);
+  const navigate = useNavigate();
 
   useEffect(() => {
     if (id) {
@@ -78,14 +82,10 @@ const DetailedBlogPost = () => {
     setIsDialogOpen(false);
     try {
       await deleteBlogAsync(id);
+      navigate("/");
     } catch (error) {
       console.error("Failed to delete blog post: ", error);
     }
-  };
-
-  const convertDate = (date: string) => {
-    const dateObj = new Date(date);
-    return dateObj.toLocaleDateString() + " " + dateObj.toLocaleTimeString();
   };
 
   return (
@@ -109,6 +109,8 @@ const DetailedBlogPost = () => {
                 {title}
               </Heading>
             )}
+            {isLoggedIn && (
+              <>
             <IconButton
               icon={<FaPencilAlt />}
               onClick={handleEdit}
@@ -121,6 +123,8 @@ const DetailedBlogPost = () => {
               aria-label="Delete"
               mx="2"
             />
+            </>
+            )}
           </Flex>
 
           <Flex mt="4">

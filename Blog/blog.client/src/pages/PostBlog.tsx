@@ -4,12 +4,14 @@ import { FormControl, Box, Text, Textarea, FormLabel, Input, Button, useToast } 
 import { useState } from "react";
 import { CreateBlogPost } from "../dto/CreateBlogPost";
 import { postBlogAsync } from "../service/api/api-service";
+import { useNavigate } from "react-router-dom";
 
 const PostBlog = () => {
     const [title, setTitle] = useState('');
     const [content, setContent] = useState('');
     const [author, setAuthor] = useState('');
     const toast = useToast();
+    const navigate = useNavigate();
 
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
@@ -30,10 +32,7 @@ const PostBlog = () => {
             isClosable: true,
             position: "top"
           });
-
-          setTitle('');
-          setContent('');
-          setAuthor('');
+          navigate('/');
         } catch (error) {
           console.error('Failed to post blog: ', error);
           toast({

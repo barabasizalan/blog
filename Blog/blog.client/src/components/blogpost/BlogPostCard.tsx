@@ -1,6 +1,8 @@
 import { Box, Button, Divider, Flex, Text } from "@chakra-ui/react"
 import { Link } from "react-router-dom";
 import { BlogPost } from "../../model/BlogPost";
+import { convertDate } from "../../utils/utils";
+import { FaUser } from "react-icons/fa";
 
 interface BlogPostCardProps {
     blog: BlogPost;
@@ -8,18 +10,19 @@ interface BlogPostCardProps {
 
 const BlogPostCard:React.FC<BlogPostCardProps> = ({blog}) => {
     return (
-        <Box boxShadow="xl" p={4} m={5} borderRadius="20px" bg="#e6fff4" width='30%'>
+        <Box boxShadow="xl" p={4} m={5} borderRadius="20px" bg="#e6fff4" width='100%'>
         <Flex alignItems="center" justifyContent="space-between" mb={2}>
-            <Text fontWeight="bold">
+            <FaUser size={15} />
+            <Text ml={5} mr='auto'>
                 {blog.author}
             </Text>
             <Text >
-                {blog.dateCreated}
+                {convertDate(blog.dateCreated)}
             </Text>
         </Flex>
         <Divider />
         <Flex alignItems="center" justifyContent="space-between">
-            <Text m={4}>
+            <Text m={4} fontWeight="bold">
                 {blog.title}
             </Text>
             <Button as={Link} to={`/post/${blog.id}`} color='black'>Read more</Button>
